@@ -146,6 +146,7 @@ In a monorepo, a developer can streamline a codebase, unifying front-end, back-e
 ## References
 
 - [Typescript Configuration](https://www.typescriptlang.org/tsconfig/)
+- [Eslint v9 Configuration](https://eslint.org/docs/latest/use/configure/)
 
 ## License
 
