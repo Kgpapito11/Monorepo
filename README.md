@@ -5,19 +5,15 @@
 <h1 align="center">Monorepo Setup</h1>
 
 <blockquote align="center" style="font-size:18px;">
-<strong>Advance Monorepo</strong> Template that <strong>streamlines the development of scalable and maintainable applications</strong> for <strong>development teams</strong> using <strong>Turborepo, a build system for JavaScript and TypeScript monorepos, and a modular folder structure</strong>.
+<strong>Advance Monorepo</strong> Template that <strong>streamlines the development of scalable and maintainable applications</strong> for <strong>development teams</strong> using <strong>NX, a build system for JavaScript and TypeScript monorepos, and a modular folder structure</strong>.
 </blockquote>
 
 <div align="center">
 
 <img src="https://img.shields.io/github/contributors/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
-
 <img src="https://img.shields.io/github/forks/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
-
 <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green">
-
 <img src="https://img.shields.io/github/stars/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
-
 <img src="https://img.shields.io/github/issues/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
 
 </div>
@@ -141,7 +137,7 @@ If you encounter any issues, please open an issue in the
 A monorepo, short for "monolithic repository," is a single version-controlled repository that holds the code for many distinct projects. Instead of having separate repositories for each project, a monorepo centralizes all of the codebase in one location.
 </blockquote>
 
-### Why use Monorepo (Turbo Repo)?
+### Why use Monorepo (NX Monorepo)?
 
 <blockquote style="font-size:18px;">
 In a monorepo, a developer can streamline a codebase, unifying front-end, back-end, and UI libraries into a single repository. This can accelerate build times and cut down on development overhead. The centralized nature of a monorepo can also improve developer velocity. For instance, one project used a monorepo to accelerate build times by 30% , and another cut development overhead by 25%.
