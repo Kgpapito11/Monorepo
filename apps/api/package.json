@@ -1,0 +1,7 @@
+{
+  "name": "@monorepo/api",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "sideEffects": false
+}
