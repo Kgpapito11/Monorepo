@@ -1,9 +1,12 @@
 # Modules
-
 node_modules
 
-
 # Build 
-
 dist
 build
+
+# NX defaults
+.nx
+
+# Husky
+.husky
