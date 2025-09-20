@@ -1,7 +1,0 @@
-{
-  "name": "@monorepo/eslint-config",
-  "private": true,
-  "type": "module",
-      "scripts": {},
-  "sideEffects": false
-}

@@ -1,7 +1,0 @@
-{
-  "name": "@monorepo/web",
-  "private": true,
-  "type": "module",
-  "scripts": {},
-  "sideEffects": false
-}

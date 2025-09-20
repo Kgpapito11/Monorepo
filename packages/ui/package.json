@@ -1,7 +1,0 @@
-{
-  "name": "@monorepo/ui",
-  "private": true,
-  "type": "module",
-  "scripts": {},
-  "sideEffects": false
-}

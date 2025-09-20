@@ -1,12 +1,8 @@
 {
   "name": "monorepo",
   "version": "1.0.0",
-  "private": true,
-  "workspaces": [
-    "packages/*",
-    "apps/*"
-  ],
-  "devDependencies": {
-    "nx": "21.5.2"
-  }
+  "scripts": {},
+  "author": "CodeDragon03 jay7666.professional@gmail.com",
+  "license": "MIT",
+  "packageManager": "pnpm@10.15.0"
 }

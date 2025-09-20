@@ -1,7 +1,0 @@
-{
-  "name": "@monorepo/typescript-config",
-  "private": true,
-  "type": "module",
-  "scripts": {},
-  "sideEffects": false
-}

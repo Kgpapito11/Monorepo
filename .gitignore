@@ -1,8 +1,9 @@
-# Node modules
+# Modules
+
 node_modules
 
-# NX Setup
-.nx
 
-.cursor/rules/nx-rules.mdc
-.github/instructions/nx.instructions.md
+# Build 
+
+dist
+build
