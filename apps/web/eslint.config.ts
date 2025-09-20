@@ -5,7 +5,7 @@ import css from "@eslint/css";
 import js from "@eslint/js";
 import json from "@eslint/json";
 import markdown from "@eslint/markdown";
-import pluginReact from "eslint-plugin-react";
+import reactPlugin from "eslint-plugin-react";
 import { defineConfig } from "eslint/config";
 import globals from "globals";
 import tseslint from "typescript-eslint";
@@ -25,7 +25,7 @@ export default defineConfig([
     },
   },
   tseslint.configs.recommended,
-  pluginReact.configs.flat.recommended,
+  reactPlugin.configs.flat.recommended,
   {
     files: ["**/*.jsonc"],
     plugins: { json },
@@ -43,5 +43,18 @@ export default defineConfig([
     plugins: { css },
     language: "css/css",
     extends: ["css/recommended"],
+  },
+  {
+    settings: {
+      react: {
+        version: "19.1.1",
+      },
+    },
+    plugins: {
+      react: reactPlugin,
+    },
+    rules: {
+      "react/react-in-jsx-scope": "off",
+    },
   },
 ]);
