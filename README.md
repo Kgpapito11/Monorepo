@@ -18,14 +18,13 @@ This <strong>monorepo template</strong> utilizes <strong>NX</strong> for a <stro
 
 ## Table of Contents
 
-- [Getting Started](https://www.google.com/search?q=%23getting-started)
-- [Usage](https://www.google.com/search?q=%23usage)
-- [Contributing](https://www.google.com/search?q=%23contributing)
-- [Issues](https://www.google.com/search?q=%23issues)
-- [Author](https://www.google.com/search?q=%23author)
-- [Appendix](https://www.google.com/search?q=%23appendix)
-- [References](https://www.google.com/search?q=%23references)
-- [License](https://www.google.com/search?q=%23license)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Author](#author)
+- [Appendix](#appendix)
+- [References](#references)
+- [License](#license)
 
 ## Getting Started
 
@@ -123,7 +122,7 @@ If you encounter any issues, please open an issue in the
 - Attach relevant logs, screenshots, or code snippets if possible.
 - Be respectful and constructive in your communication.
 
-<h2>Author</h2>
+## Author
 
       Jay Yadav @CodeDragon03
 
