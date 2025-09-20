@@ -1,0 +1,11 @@
+{
+  "name": "@monorepo/typescript-config",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {},
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

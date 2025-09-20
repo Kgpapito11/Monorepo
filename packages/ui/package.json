@@ -1,0 +1,19 @@
+{
+  "name": "@monorepo/ui",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "@monorepo/eslint-config": "workspace:*",
+    "@monorepo/typescript-config": "workspace:*",
+    "react": "^19.1.1"
+  }
+}
