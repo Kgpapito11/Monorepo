@@ -4,7 +4,7 @@
 
 <h1 align="center">Monorepo Setup</h1>
 
-<blockquote align="center" style="font-size:18px;">
+<blockquote style="font-size:18px;">
 This <strong>monorepo template</strong> utilizes <strong>NX</strong> for a <strong>scalable, modular, and maintainable project structure</strong>. It separates <strong>applications</strong> from <strong>reusable libraries</strong>, <strong>promoting code sharing</strong> and <strong>consistency</strong> while ensuring <strong>efficient builds and clear project boundaries for professional, open-ended development</strong>.
 </blockquote>
 
