@@ -4,7 +4,7 @@
 
 <h1 align="center">Monorepo Setup</h1>
 
-<blockquote align="center" style="font-size:18px;">
+<blockquote style="font-size:18px;">
 This <strong>monorepo template</strong> utilizes <strong>NX</strong> for a <strong>scalable, modular, and maintainable project structure</strong>. It separates <strong>applications</strong> from <strong>reusable libraries</strong>, <strong>promoting code sharing</strong> and <strong>consistency</strong> while ensuring <strong>efficient builds and clear project boundaries for professional, open-ended development</strong>.
 </blockquote>
 
@@ -142,7 +142,11 @@ In a monorepo, a developer can streamline a codebase, unifying front-end, back-e
 
 ## References
 
+- [NX Setup](https://nx.dev/getting-started/intro)
 - [Typescript Configuration](https://www.typescriptlang.org/tsconfig/)
+- [Eslint Configuration](https://eslint.org/docs/latest/use/configure/)
+- [Prettier Configuration](https://prettier.io/docs/configuration)
+- [Setup Guide](https://javascript.plainenglish.io/sharing-typescript-with-nx-and-turborepo-part-3-configuring-a-monorepo-2e4608701964#7ab8)
 
 ## License
 

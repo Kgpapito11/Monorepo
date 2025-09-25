@@ -1,25 +1,14 @@
 {
   "name": "monorepo",
+  "type": "module",
   "version": "1.0.0",
-  "scripts": {},
-  "author": "CodeDragon03 jay7666.professional@gmail.com",
+  "private": true,
+  "scripts": {
+    "nx": "nx"
+  },
   "license": "MIT",
   "packageManager": "pnpm@10.15.0",
-  "engines": {
-    "node": ">=22.0.0"
-  },
-  "dependencies": {
-    "nx": "^21.5.3"
-  },
   "devDependencies": {
-    "@nx/eslint": "21.5.2",
-    "@nx/vite": "21.5.2",
-    "@nx/web": "21.5.2",
-    "@vitest/ui": "^3.0.0",
-    "eslint": "~8.57.0",
-    "jiti": "2.4.2",
-    "nx": "21.5.2",
-    "vite": "^7.0.0",
-    "vitest": "^3.0.0"
+    "nx": "21.5.3"
   }
 }

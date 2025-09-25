@@ -1,42 +1,13 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "targetDefaults": {
-    "build": {
-      "dependsOn": ["^build"],
-      "cache": true
-    },
-    "start": {
-      "dependsOn": ["^start"]
-    },
-    "dev": {
-      "dependsOn": ["^dev"]
-    },
-    "lint": {
-      "dependsOn": ["^lint"],
-      "cache": true
-    }
-  },
+  "nxCloudId": "68d522396901683710132321",
+  "tasksRunnerOptions": {},
   "plugins": [
     {
-      "plugin": "@nx/eslint/plugin",
+      "plugin": "@nx/js/typescript",
       "options": {
-        "targetName": "eslint:lint"
-      }
-    },
-    {
-      "plugin": "@nx/vite/plugin",
-      "options": {
-        "buildTargetName": "vite:build",
-        "testTargetName": "test",
-        "serveTargetName": "serve",
-        "devTargetName": "vite:dev",
-        "previewTargetName": "vite:preview",
-        "serveStaticTargetName": "serve-static",
-        "typecheckTargetName": "typecheck",
-        "buildDepsTargetName": "build-deps",
-        "watchDepsTargetName": "watch-deps"
+        "build": false
       }
     }
-  ],
-  "nxCloudId": "68ceebcb8ce85c568b7c3ba7"
+  ]
 }
