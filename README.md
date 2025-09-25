@@ -47,7 +47,7 @@ This <strong>monorepo template</strong> utilizes <strong>NX</strong> for a <stro
 Use the following command to run the application:
 
 ```bash
-turbo run dev
+nx run dev
 ```
 
 ## Contributing
@@ -151,4 +151,4 @@ In a monorepo, a developer can streamline a codebase, unifying front-end, back-e
 ## License
 
 This project is licensed under the
-[MIT License](https://www.google.com/search?q=LICENSE).
+[MIT License](./LICENSE).
