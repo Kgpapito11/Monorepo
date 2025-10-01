@@ -3,12 +3,11 @@
   "type": "module",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "nx": "nx"
-  },
+  "scripts": {},
   "license": "MIT",
   "packageManager": "pnpm@10.15.0",
-  "devDependencies": {
-    "nx": "21.5.3"
-  }
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "devDependencies": {}
 }
