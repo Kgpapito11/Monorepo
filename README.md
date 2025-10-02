@@ -5,7 +5,7 @@
 <h1 align="center">Monorepo Setup</h1>
 
 <blockquote style="font-size:18px;">
-This <strong>monorepo template</strong> utilizes <strong>Turborepo</strong> for a <strong>scalable, modular, and maintainable project structure</strong>. It separates <strong>applications</strong> from <strong>reusable libraries</strong>, <strong>promoting code sharing</strong> and <strong>consistency</strong> while ensuring <strong>efficient builds and clear project boundaries for professional, open-ended development</strong>.
+This <strong>monorepo template</strong> utilizes <strong>Turborepo</strong> for a <strong>scalable, modular, and maintainable project structure</strong>. It separates <strong>applications</strong> from <strong>reusable libraries</strong>, <strong>promoting code sharing</strong> and <strong>consistency</strong> while ensuring <strong>efficient builds and clear project boundaries for professional, open-ended development</strong>. Please check the issues page for more info on coming fetures and make sure to stare it to know about future updates.
 </blockquote>
 
 <div align="center">
