@@ -47,7 +47,7 @@ This <strong>monorepo template</strong> utilizes <strong>Turborepo</strong> for 
 Use the following command to run the application:
 
 ```bash
-nx run dev
+turbo run dev
 ```
 
 ## Contributing
