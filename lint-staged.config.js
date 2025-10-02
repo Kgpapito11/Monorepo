@@ -4,5 +4,5 @@
  */
 
 export default {
-    '*': 'prettier --write',
+    '*.{js,ts,tsx,css,md,json}': 'prettier --write',
 };
