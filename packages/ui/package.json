@@ -1,0 +1,20 @@
+{
+    "name": "@monorepo/ui",
+    "private": true,
+    "type": "module",
+    "version": "1.0.0",
+    "main": "index.ts",
+    "scripts": {
+        "biuld": "tsc",
+        "lint": "eslint .",
+        "test": "vitest"
+    },
+    "exports": {
+        ".": "./dist/index.js"
+    },
+    "devDependencies": {
+        "@monorepo/eslint-config": "workspace:*",
+        "@monorepo/typescript-config": "workspace:*",
+        "typescript": "^5.9.3"
+    }
+}
